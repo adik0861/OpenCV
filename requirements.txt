@@ -1,0 +1,5 @@
+opencv-contrib-python-headless
+flask~=2.2.2
+matplotlib~=3.5.3
+numpy~=1.21.6
+imutils~=0.5.4
